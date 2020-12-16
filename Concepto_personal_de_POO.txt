@@ -1,0 +1,6 @@
+Concepto de POO
+
+La programación Orientada a objetos se define como un paradigma de la programación, cada programador tiene su estilo para prgramar
+se crean objetos que se relacionan entre sí para conseguir los objetivos de las aplicaciones.
+La programación Orientada a objetos (POO) es una forma especial de programar, lo más parecido a como expresariamos  las cosas en la vida real
+que se diferencia de otros tipos de programación.
